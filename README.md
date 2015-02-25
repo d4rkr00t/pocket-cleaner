@@ -1,6 +1,6 @@
 # Pocket Cleaner
 
-Removes all articles which older than number of days which you define.
+Removes all articles which older than number of days you define.
 
 > Required: nodejs >= 0.12 or iojs because of generators.
 
